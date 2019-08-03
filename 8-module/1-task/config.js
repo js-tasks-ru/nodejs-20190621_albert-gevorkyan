@@ -36,7 +36,7 @@ module.exports = {
     },
   },
   mailer: {
-    user: '',
-    password: '',
+    user: 'fffakmthn@gmail.com',
+    password: 'GrAdUsLa',
   },
 };
